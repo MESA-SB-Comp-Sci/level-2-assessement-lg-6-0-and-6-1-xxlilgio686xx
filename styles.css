@@ -2,3 +2,33 @@
     box-sizing: border-box;
 }
 
+.e{
+    color: yellow;
+}
+
+.p{
+    color: white;
+    background-color: pink;
+}
+
+.p2{
+    color: green;
+}
+.p3{
+    color: blue;
+}
+
+.en{
+    background-color: grey;
+}
+
+.f{
+    color: white;
+}
+
+.b{
+    border: 100px;
+    background-color: white;
+    height: 100px;
+
+}
