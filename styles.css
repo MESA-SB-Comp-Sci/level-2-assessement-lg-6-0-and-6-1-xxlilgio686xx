@@ -12,10 +12,10 @@
 }
 
 .p2{
-    color: green;
+    color: rgb(74, 188, 74);
 }
 .p3{
-    color: blue;
+    color: rgb(96, 160, 185);
 }
 
 .en{
@@ -27,7 +27,7 @@
 }
 
 .b{
-    border: 100px;
+    border: orange solid 5px;
     background-color: white;
     height: 100px;
 
